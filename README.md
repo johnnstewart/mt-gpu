@@ -1,1 +1,3 @@
-# mt-gpu
+# linux
+
+cargo build && cargo run
